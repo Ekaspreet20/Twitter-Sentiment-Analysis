@@ -1,9 +1,9 @@
-#Twitter-Sentiment-Analysis
+# Twitter-Sentiment-Analysis
 
 This GitHub repository contains code for performing sentiment analysis on Twitter data using various machine learning and deep learning techniques. The goal is to classify the sentiment of tweets as either positive or negative. The repository includes preprocessing, feature engineering, model training, and evaluation.
 
 ##### Distribution of data:
-<img width="318" alt="image" src="https://github.com/Ekaspreet20/Twitter-Sentiment-Analysis/assets/65918628/0cf9e03c-9fad-4cd3-8e74-7575a3f19f99">
+<img width="500" alt="image" src="https://github.com/Ekaspreet20/Twitter-Sentiment-Analysis/assets/65918628/0cf9e03c-9fad-4cd3-8e74-7575a3f19f99">
 
 ### Code Overview
 
@@ -17,7 +17,7 @@ The Jupyter Notebook `twitter_sentiment_analysis.ipynb` contains the following s
 
 4. **Word Clouds**: Word clouds are generated to visualize the most frequent words in both negative and positive tweets.
    Here is the positive Word Cloud:
-   ![image](https://github.com/Ekaspreet20/Twitter-Sentiment-Analysis/assets/65918628/9f09df34-a16f-447c-9c2a-ef2730891c85)
+  <img width="800" alt="image" src="https://github.com/Ekaspreet20/Twitter-Sentiment-Analysis/assets/65918628/9f09df34-a16f-447c-9c2a-ef2730891c85">
 
 
 5. **Data Splitting and Transformation**: The dataset is split into training and testing sets. The training text data is transformed into TF-IDF features using the TfidfVectorizer.
